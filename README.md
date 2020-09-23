@@ -1,5 +1,5 @@
 <h1 align="center" background-color="red">
-    <img alt="Wildbeast" title="#Wildbeast" src="img/wildbeast.svg" width="300px"/>
+    <img alt="Wildbeast" title="#Wildbeast" src="img/wildbeast_readme.svg" width="300px"/>
 </h1>
 
 <h2 align="center">
