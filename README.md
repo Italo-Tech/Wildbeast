@@ -1,4 +1,4 @@
-<h1 align="center" background-color="black">
+<h1 align="center" background-color="red">
     <img alt="Wildbeast" title="#Wildbeast" src="img/wildbeast.svg" width="300px"/>
 </h1>
 
